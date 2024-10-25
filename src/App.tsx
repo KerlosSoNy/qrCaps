@@ -5,6 +5,7 @@ import { MdEmail } from 'react-icons/md';
 import MagneticComponent from './components/Magnitc';
 import { FaFacebook } from "react-icons/fa";
 import { RiInstagramFill } from "react-icons/ri";
+import { TbWorld } from "react-icons/tb";
 
 function App() {
 
@@ -41,9 +42,9 @@ function App() {
               </div>
               <div className='flex flex-col w-fit mx-auto'>
                 <div className='flex flex-row items-center text-white gap-2'>
-                  <MdEmail />
+                  <TbWorld />
                   <span>
-                    Email Address
+                    Website
                   </span>
                 </div>
                 <a href="https://caps-code.vercel.app/" className='text-white hover:cursor-pointer z-50'>https://caps-code.vercel.app/</a>
