@@ -24,7 +24,7 @@ function App() {
             <div className='container z-[50] justify-items-center mx-auto my-6 flex flex-row flex-wrap justify-center gap-4'>
               <div className='flex flex-col w-fit mx-auto pe-[73px]'>
                 <div className='flex flex-row items-center text-white gap-2'>
-                  <FaPhone />
+                  <FaPhone className='transform scale-x-[-1]' />
                   <span>
                     Phone number
                   </span>
