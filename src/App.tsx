@@ -18,7 +18,7 @@ function App() {
             </div>
             <h1 className='w-full text-center font-bold text-2xl text-white'>CapsCode EG
             </h1>
-            <span className='w-[95%] md:w-[80%] lg:w-1/2 mx-auto text-center text-white'>CapsCode creates professional websites to help businesses grow and boost sales. We offer custom solutions that enhance engagement and digital presence. For full web solutions or digital marketing support, we are here to help.
+            <span className='w-[95%] md:w-[80%] lg:w-[80%] mx-auto text-center text-white'>CapsCode creates professional websites to help businesses grow and boost sales. We offer custom solutions that enhance engagement and digital presence. For full web solutions or digital marketing support, we are here to help.
             </span>
             <div className='container z-[50] justify-items-center mx-auto my-6 flex flex-row flex-wrap justify-center gap-4'>
               <div className='flex flex-col w-fit mx-auto pe-[73px]'>
