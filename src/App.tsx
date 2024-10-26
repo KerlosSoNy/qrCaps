@@ -47,7 +47,7 @@ function App() {
                     Website
                   </span>
                 </div>
-                <a href="https://caps-code.vercel.app/" className='text-white hover:cursor-pointer z-50'>https://caps-code.vercel.app/</a>
+                <a href="https://capscode.vercel.app/en" className='text-white hover:cursor-pointer z-50'>https://capscode.vercel.app/en</a>
               </div>
             </div>
             <div className='flex flex-row justify-center w-full gap-4 z-[50]'>
